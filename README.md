@@ -2,9 +2,10 @@
 
 ### install anxios 
 
-    through anxios get ap call 
+    through anxios get api call 
 
 ### learn 
 
     export 
     immport from data from js file to another js file 
+    async function
